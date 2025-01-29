@@ -20,6 +20,7 @@ This project explores Target’s e-commerce operations in Brazil, analyzing a da
 - Optimizing logistics based on shipping delays and regional demand.
 - Improving product categorization and pricing strategies.
 - Enhancing customer experience through better fulfillment and payment options.
+
 ## Tools & Technologies Used:
 - Python: Pandas, Matplotlib, Seaborn for data processing & visualization.
 - MySQL: Structured data storage, querying, and relational analysis.
